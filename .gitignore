@@ -160,4 +160,3 @@ models/*
 datasets/TartanAir.pickle
 datasets/TartanAir
 TartanAirResults
-thirdparty/*
